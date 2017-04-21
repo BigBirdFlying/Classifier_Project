@@ -1,0 +1,7 @@
+LIBRARY	"ArNTImageProcess"
+EXPORTS
+H_DefectDetectInterfaceFunc			@1;
+H_GetFeats							@2;
+H_GetFeat							@3;
+H_ClassifierTrain					@4;
+H_ClassifierPredict					@5;
